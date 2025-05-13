@@ -64,4 +64,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: jmeter-summary
-          path: summary.md
+          path: summary.md 
